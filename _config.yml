@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Attrayee (Atty) Chakraborty"
+title                    : "Attrayee Chakraborty"
 title_separator          : "-"
 name                     : &name "Attrayee Chakraborty"
 description              : &description "I am a quality and regulatory professional working in digital health (software as a medical device (SaMD)). My interests lie in helping companies navigate complex regulatory expectations, implementing quality principles throughout the product development lifecycle, and talking about regulatory considerations in Aritifical Intelligence (AI)-enabled medical devices. You can find more information on the tabs above."
@@ -19,13 +19,17 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
+# Talks about artifical intelligence, digital healthcare, remote patient monitoring, connected health technology, quality systems, risk management, regulatory affairs.
 author:
   # Biographic information
   avatar           : "LinkedIn_photo_recent.jpg"
-  name             : "Attrayee (Atty) Chakraborty (she/her)"
-  pronouns         : # example: "she/her"  
-  bio              : "Quality systems engineer, Analog Devices. Talks about artifical intelligence, digital healthcare, remote patient monitoring, connected health technology, quality systems, risk management, regulatory affairs."
-  location         : "Boston, MA"
+  name             : "Attrayee Chakraborty"
+  pronouns         : "she/her"  
+  bio              : "Quality systems engineer, Analog Devices."
+  location         : "Boston"
+  cv               : "cv.pdf"
+  resume           : "resume.pdf"
   employer         : "Northeastern University"
   uri              : # URL
   email            : "chakraborty.at@northeastern.edu" 
@@ -57,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/attrayeec/"
+  linkedin         : attrayeec
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +83,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"

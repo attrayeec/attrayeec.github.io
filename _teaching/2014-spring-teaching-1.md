@@ -7,8 +7,8 @@ venue: "Northeastern University"
 date: 2024-04-04
 location: "USA (13 campuses) and Canada"
 ---
-[Link] (https://docs.google.com/document/d/1gGxM-kL1IpJ8UjUP3LvfEes2jakEkai1/edit?usp=sharing&ouid=115301266814039388574&rtpof=true&sd=true)
-[Link to presentation] ()
+[Link](https://docs.google.com/document/d/1gGxM-kL1IpJ8UjUP3LvfEes2jakEkai1/edit?usp=sharing&ouid=115301266814039388574&rtpof=true&sd=true)
+[Link to presentation](TODO)
 
 Artificial Intelligence (AI) has garnered a lot of interest, with questions on how to build safe and trustworthy AI systems in the healthcare industry. 
 What questions do we need to ask about using AI in healthcare? And how do we ask them? What are current regulatory expectations? I will be using examples to explain the 'how' and considerations to be taken into account from a quality and regulatory perspective.
