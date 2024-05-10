@@ -6,10 +6,13 @@ permalink: /teaching/2014-spring-teaching-2
 venue: "Northeastern University"
 date: 2024-04-04
 location: "USA (13 campuses) and Canada"
+excerpt: "testing"
 ---
 
 [Link to AI for All Week](https://aiinaction.sites.northeastern.edu/)
+
 [Link to recorded presentation](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31beb7b1-a4d3-4cc4-990c-b14d01663524)
+
 [LinkedIn post](https://www.linkedin.com/posts/attrayeec_aiforall-northeasternuniversity-ai-activity-7181829156467298304-ufaU?utm_source=share&utm_medium=member_desktop)
 
 Artificial Intelligence (AI) has garnered a lot of interest, with questions on how to build safe and trustworthy AI systems in the healthcare industry. 
