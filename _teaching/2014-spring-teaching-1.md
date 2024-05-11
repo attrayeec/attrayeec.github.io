@@ -11,7 +11,7 @@ excerpt: "testing"
 
 [Link to AI for All Week](https://aiinaction.sites.northeastern.edu/)
 
-[Link to recorded presentation](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31beb7b1-a4d3-4cc4-990c-b14d01663524)
+[Link to recorded presentation](https://youtu.be/SqeeoGWBAs0)
 
 [LinkedIn post](https://www.linkedin.com/posts/attrayeec_aiforall-northeasternuniversity-ai-activity-7181829156467298304-ufaU?utm_source=share&utm_medium=member_desktop)
 
