@@ -1,14 +1,18 @@
 <!-- ---
 permalink: /
-title: "Susobhan Ghosh"
-excerpt: "Third year PhD Student at Harvard"
+title: "Attrayee Chakraborty"
+excerpt: "Quality Systems Engineer, Analog Devices"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a fifth year PhD student in the [StatRL](http://people.seas.harvard.edu/~samurphy/lab/overview.html) research group at Harvard University, working with Prof. [Susan Murphy](http://people.seas.harvard.edu/~samurphy/). I am currently focusing on designing Bayesian Reinforcement Learning algorithms for Mobile Health interventions through clinical trials. Recently, we developed and deployed the [reBandit](https://github.com/StatisticalReinforcementLearningLab/miwaves_rl_service) algorithm for the MiWaves clinical trial (Mar to May 2024), aimed at reducing cannabis use among emerging adults (ages 18-25).
+I am currently a Quality Systems Engineer in the Digital Healthcare division at [Analog Devices](https://www.analog.com/en/solutions/healthcare.html), a Fortune 500 semiconductor company working in the healthcare space. I help establish compliance to US and international regulatory standards in the context of healthcare for marketing safe and effective devices in the interest of patient care. My primary field of expertise is establishing compliance for devices consisting of interaction of software and hardware in medical devices (SaMD, SiMD etc.). With a background in biotechnology and regulatory affairs, I have consulted in the past for Indian medical device startups to provide guidance to them on commercializing their products in the US and Indian market.
+
+Outside of my 9-to-5 job, I am actively involved in contributing to standards for Artificial Intelligence in the context of healthcare (IEEE, CHAI, AIGHI, IAIGH, RAPS and SQA) and have spoken at multiple international conferences on AI integration in healthcare systems, drug misinformation, quality culture, and international regulations. I also love leading communities at RAPS, ISPE, and IEEE along with reviewing and providing feedback on upcoming standards related to AI in healthcare. You can find my blogs and publications here too. 
 
 
-My past work has dealt with problems in the domain of Multi-Agent Systems, Game Theory & Mechanism Design, and Machine Learning, and I have experience applying them to mobile health settings, computational sustainability problems, social problems like security and planning, and adversarial settings. -->
+
+
+

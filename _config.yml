@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Susobhan Ghosh"
+title                    : "Attrayee Chakraborty"
 title_separator          : "-"
-name                     : &name "Susobhan Ghosh"
-description              : &description "Fifth year PhD Student at SEAS, Harvard"
-url                      : https://susobhan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Attrayee Chakraborty"
+description              : &description "Quality Systems Engineer, Analog Devices"
+url                      : https://attrayeec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "susobhang70/academicpages"
+repository               : "attrayeec/academicpages"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "susobhang70"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Susobhan Ghosh"
-  avatar           : "susobhan.jpg"
-  bio              : "Fifth year Computer Science PhD student at Harvard"
+  name             : "Attrayee Chakraborty"
+  avatar           : "atty.png"
+  bio              : "Quality Systems Engineer, Analog Devices"
   location         : "Boston"
-  cv               : "cv_concise.pdf"
+  cv               : "CV_Attrayee.pdf"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=3NhEFSAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=GGM4C_YAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "susobhang70"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "attrayeec/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "susobhang70"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

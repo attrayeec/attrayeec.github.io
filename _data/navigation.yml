@@ -4,20 +4,23 @@ main:
     # url: /publications/
     url: /#publications
 
-  - title: "Talks"
-    url: /#talks    
+  - title: "Invited Talks"
+    url: /#invited-talks    
 
   - title: "Posters"
-    url: /#posters    
+    url: /#posters     
+
+  - title: "Leadership Positions"
+    url: /#leadership-positions
+
+  - title: "Review"
+    url: /#academic-and-industry-review
+    
+  - title: "Features"
+    url: /#features
 
   - title: "Contact"
-    url: /#contact    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
+    url: /#contact
         
   # - title: "Blog Posts"
   #   url: /year-archive/
