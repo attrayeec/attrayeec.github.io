@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Attrayee Chakraborty"
+title: "Attrayee (Atty) Chakraborty"
 excerpt: "Quality Systems Engineer, Analog Devices"
 author_profile: true
 redirect_from: 

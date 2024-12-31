@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Attrayee Chakraborty"
+title                    : "Attrayee (Atty) Chakraborty"
 title_separator          : "-"
-name                     : &name "Attrayee Chakraborty"
+name                     : &name "Attrayee (Atty) Chakraborty"
 description              : &description "Quality Systems Engineer, Analog Devices"
 url                      : https://attrayee.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
