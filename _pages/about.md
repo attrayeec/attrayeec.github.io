@@ -70,7 +70,7 @@ Invited Talks
 - **Quality and Regulatory Requirements for AI in Medical Devices to Quality Engineers Across the US**  
   (Course Chair and Presenter, Quality College, Society of Quality Assurance, September 2024)
 
-- **Global Artificial Intelligence (AI) Healthcare Regulations: Trends and Future** (Invited Speaker, International Society of Pharmaceutical Engineering (ISPE) Annual Meeting, October 2024)[\[link\]](https://www.linkedin.com/posts/attrayeec_ispeam24-activity-7251927348256600065-Ro4E?utm_source=share&utm_medium=member_desktop)[\[Top recognized session\]]{https://ispe.org/pharmaceutical-engineering/ispeak/elevate-your-career-and-stay-ahead-join-industry-leaders-2024}
+- **Global Artificial Intelligence (AI) Healthcare Regulations: Trends and Future** (Invited Speaker, International Society of Pharmaceutical Engineering (ISPE) Annual Meeting, October 2024)[\[link\]](https://www.linkedin.com/posts/attrayeec_ispeam24-activity-7251927348256600065-Ro4E?utm_source=share&utm_medium=member_desktop) Top recognized session[\[link\]]{https://ispe.org/pharmaceutical-engineering/ispeak/elevate-your-career-and-stay-ahead-join-industry-leaders-2024}
 
 - **Global AI Healthcare Regulations and Quality Requirements: Building an Effective QMS for Medical Devices**  
   (Invited Speaker, American Society of Quality (ASQ), Boston, October 2024)[\[link\]](https://www.linkedin.com/posts/attrayeec_ai-regulatory-quality-activity-7249571308076724224-F7cw?utm_source=share&utm_medium=member_desktop)
