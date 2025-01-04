@@ -15,7 +15,10 @@ Outside of my 9-to-5 job, I am actively involved in contributing to standards fo
 Publications
 ====
 
-
+* **Healthcare AI Governance Standard (HAIGS) 2024**    
+ *ISBN: 979-8-3507-4360-9*    
+ ***Institute for AI Governance in Healthcare (IAIGH)***    
+ - Advisory board member, contributing author and reviewer
 
 * **AI-Enabled Medical Devices In India: Opportunities And Challenges**    
  *MedDeviceOnline*    
