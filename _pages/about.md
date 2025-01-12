@@ -48,6 +48,13 @@ Invited Talks
 
 - **Quality Crusaders: How Early-Career Professionals Can Revolutionize Culture and Communication** (World Conference for Quality & Improvement, American Society for Quality, May 2025)
 
+- **Invited Speaker, Annual Conference** (Society for Quality Assurance Annual Conference, April 2025)		           
+  **AI Symposium (Invited Talk)**
+  **Topic: From boardroom discussions to procedures: how to translate AI requirements into practical procedures**
+  **Topic: Navigating the Risk Maze: Mastering AI Compliance with ISPE GAMP and AAMI 34971**
+  **Topic: Adapting Software Solutions for MedTech Automation and Quality: Challenges and Benefits**
+
+
 - **AI Governance in Healthcare: A Cross-Jurisdictional Global Analysis of Regulatory Approaches** (RAPS Global Regulatory Strategy Conference, March 2025)
 
 - **Navigating Global AI Healthcare Regulations & Quality Requirements: Current Trends & Future Perspectives** (MDM West, February 2025)
@@ -55,7 +62,7 @@ Invited Talks
 - **Defining Requirements for AI enabled medical devices using a risk assessment template  (Workshop)**  
   **Consolidating the Definition of AI Under the Context of Cybersecurity to Ensure Accurate Compliance of The New Generation Medical Devices (Panel)**  
   **Leveraging Periodic Post-Marketing Checks to Ensure Devices in Market Remain Compliant & Secure (Talk)**
-  **Hands on roundtable on cybersecurity maturity assessment using amazing resources from Medical Device Innovation Consortium (MDIC) (Wrokshop)** 
+  **Hands on roundtable on cybersecurity maturity assessment using amazing resources from Medical Device Innovation Consortium (MDIC) (Workshop)** 
    (Cybersecurity for Medical Devices Summit, Boston, November 2024)[\[link\]](https://www.linkedin.com/feed/update/urn:li:activity:7265489296835411969/)
 
 - **Navigating a Career in Quality in the Medical Device Space** (Guest Speaker, Northeastern University, November 2024)[\[link\]](https://www.linkedin.com/feed/update/urn:li:activity:7260274715234123778/)
