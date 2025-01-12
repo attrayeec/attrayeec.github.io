@@ -49,7 +49,7 @@ Invited Talks
 - **Quality Crusaders: How Early-Career Professionals Can Revolutionize Culture and Communication** (World Conference for Quality & Improvement, American Society for Quality, May 2025)
 
 - **Invited Speaker, Annual Conference** (Society for Quality Assurance Annual Conference, April 2025)		           
-  **AI Symposium (Invited Talk)**
+  **AI Symposium (Invited Talk)** 
   **Topic: From boardroom discussions to procedures: how to translate AI requirements into practical procedures**
   **Topic: Navigating the Risk Maze: Mastering AI Compliance with ISPE GAMP and AAMI 34971**
   **Topic: Adapting Software Solutions for MedTech Automation and Quality: Challenges and Benefits**
