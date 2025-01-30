@@ -46,7 +46,7 @@ Publications
 Invited Talks  
 ====
 
-- **Invited Speaker, Building Practical AI Validation Frameworks in the Absence of Specific Regulations** (Medical Device Software Development Summit, May 2025)
+- **Invited Speaker, Building Practical AI Validation Frameworks in the Absence of Specific Regulations** (Medical Device Software Development Summit, June 2025)
 
 - **Quality Crusaders: How Early-Career Professionals Can Revolutionize Culture and Communication** (World Conference for Quality & Improvement, American Society for Quality, May 2025)
 
