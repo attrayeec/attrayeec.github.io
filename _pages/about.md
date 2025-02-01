@@ -59,7 +59,7 @@ Invited Talks
 
 - **AI Governance in Healthcare: A Cross-Jurisdictional Global Analysis of Regulatory Approaches** (RAPS Global Regulatory Strategy Conference, March 2025)
 
-- **Navigating Global AI Healthcare Regulations & Quality Requirements: Current Trends & Future Perspectives** (MDM West, February 2025)
+- **AI in 2025: where and how does it fit in a medical device product development lifecycle?** (MDM West, February 2025)
 
 - **Defining Requirements for AI enabled medical devices using a risk assessment template  (Workshop)**  
   **Consolidating the Definition of AI Under the Context of Cybersecurity to Ensure Accurate Compliance of The New Generation Medical Devices (Panel)**  
