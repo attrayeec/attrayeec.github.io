@@ -189,7 +189,7 @@ Academic and industry review
 
 ---
 
-Features and Awards
+Features
 ====
 
 - **Cybersecurity Medical Devices** [\[link\]](https://cybersecurity-medical-devices.com/content-hub/)  
@@ -205,6 +205,11 @@ Features and Awards
 - **Transformative Impact: My Journey with ISPE from Aspiring Student to Emerging Professional** [\[link\]](https://www.ispeboston.org/transformative-impact-my-journey-with-ispe-from-aspiring-student-to-emerging-professional/) 
 
 - **From Concept to Care: Navigating Across the Regulatory Framework in HealthTech - E05 - The Doc Suit** [\[link\]](https://www.youtube.com/watch?v=NrRpgsObegE&feature=youtu.be)
+
+---
+
+Awards
+====
 
 
 **ADI Silver Impact Award**
