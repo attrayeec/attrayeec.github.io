@@ -189,7 +189,7 @@ Academic and industry review
 
 ---
 
-Features
+Features and Awards
 ====
 
 - **Cybersecurity Medical Devices** [\[link\]](https://cybersecurity-medical-devices.com/content-hub/)  
@@ -202,22 +202,16 @@ Features
 
 - **Op-ed: Lessons from an International Student in Regulatory Affairs** [\[link\]](https://huntnewsnu.com/76177/editorial/op-eds/op-ed-lessons-from-an-international-student-in-regulatory-affairs/)
 
-- **Transformative Impact: My Journey with ISPE from Aspiring Student to Emerging Professional** ([\[link\]](https://www.ispeboston.org/transformative-impact-my-journey-with-ispe-from-aspiring-student-to-emerging-professional/) 
+- **Transformative Impact: My Journey with ISPE from Aspiring Student to Emerging Professional** [\[link\]](https://www.ispeboston.org/transformative-impact-my-journey-with-ispe-from-aspiring-student-to-emerging-professional/) 
 
-- **From Concept to Care: Navigating Across the Regulatory Framework in HealthTech - E05 - The Doc Suit** ([\[link\]](https://www.youtube.com/watch?v=NrRpgsObegE&feature=youtu.be)
+- **From Concept to Care: Navigating Across the Regulatory Framework in HealthTech - E05 - The Doc Suit** [\[link\]](https://www.youtube.com/watch?v=NrRpgsObegE&feature=youtu.be)
 
-
-
----
-
-Awards
-====
 
 **ADI Silver Impact Award**
 - Company award for exceptional and consistent contributions to ADI.
 
 **Quality Rookie of the Year Award, 2025**
-- Industry award by [\[Quality Magazine]](https://www.qualitymag.com/nominate-quality-rookie-of-the-year) to recognize an individual with one to five years of experience in the industry who has contributed to the quality profession.
+- Industry award by Quality Magazine [\link\](https://www.qualitymag.com/nominate-quality-rookie-of-the-year) to recognize an individual with one to five years of experience in the industry who has contributed to the quality profession.
 
 ---
 
