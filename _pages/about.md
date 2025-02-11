@@ -210,6 +210,17 @@ Features
 
 ---
 
+Awards
+====
+
+**ADI Silver Impact Award**
+- Company award for exceptional and consistent contributions to ADI.
+
+**Quality Rookie of the Year Award, 2025**
+- Industry award by [\[Quality Magazine]](https://www.qualitymag.com/nominate-quality-rookie-of-the-year) to recognize an individual with one to five years of experience in the industry who has contributed to the quality profession.
+
+---
+
 Contact
 ====
 Work Email: [attrayee.chakraborty@analog.com](mailto:attrayee.chakraborty@analog.com)  
