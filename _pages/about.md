@@ -252,10 +252,10 @@ Awards
 - Company award for exceptional and consistent contributions to ADI.
 
 **Quality Rookie of the Year Award, 2025**
-- Industry award by Quality Magazine [\link\](https://www.qualitymag.com/nominate-quality-rookie-of-the-year) to recognize an individual with one to five years of experience in the industry who has contributed to the quality profession.
+- Industry award by Quality Magazine [\[link\]](https://www.qualitymag.com/nominate-quality-rookie-of-the-year) to recognize an individual with one to five years of experience in the industry who has contributed to the quality profession.
 
 **RAPS Rising Star of the Year, 2025**
-- Industry award by Regulatory Affairs Professional Society [\link\](https://www.raps.org/news-and-articles/news-articles/2025/7/raps-honors-9-regulatory-professionals-and-one-org) to recognize nine distinguished professionals and one organization with awards for their work to support the regulatory profession and advance public health.
+- Industry award by Regulatory Affairs Professional Society [\[link\]](https://www.raps.org/news-and-articles/news-articles/2025/7/raps-honors-9-regulatory-professionals-and-one-org) to recognize nine distinguished professionals and one organization with awards for their work to support the regulatory profession and advance public health.
 
 ---
 
