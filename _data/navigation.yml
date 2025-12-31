@@ -18,15 +18,13 @@ main:
     
   - title: "Features"
     url: /#features
-
-  - title: "Contact"
-    url: /#contact
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Awards"
+    url: /#awards/
     
   # - title: "CV"
   #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+

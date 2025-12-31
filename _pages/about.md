@@ -8,12 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Quality Systems Engineer in the Digital Healthcare division at [Analog Devices](https://www.analog.com/en/solutions/healthcare.html), a Fortune 500 semiconductor company working in the healthcare space. I help establish compliance to US and international regulatory standards in the context of healthcare for marketing safe and effective devices in the interest of patient care. My primary field of expertise is establishing compliance for devices consisting of interaction of software and hardware in medical devices (SaMD, SiMD etc.). With a background in biotechnology and regulatory affairs, I have consulted in the past for Indian medical device startups to provide guidance to them on commercializing their products in the US and Indian market.
+I am an award-winning Quality Systems Engineer, currently working in the Digital Healthcare division at [Analog Devices](https://www.analog.com/en/solutions/healthcare.html), a Fortune 500 semiconductor company working in the healthcare space. I help establish compliance to US and international regulatory standards in the context of healthcare for marketing safe and effective devices in the interest of patient care. My primary field of expertise is establishing compliance for devices consisting of interaction of software and hardware in medical devices (SaMD, SiMD etc.). With a background in biotechnology and regulatory affairs, I have consulted in the past for Indian medical device startups to provide guidance to them on commercializing their products in the US and Indian market.
 
 Outside of my 9-to-5 job, I am actively involved in contributing to standards for Artificial Intelligence in the context of healthcare (IEEE, CHAI, AIGHI, IAIGH, RAPS and SQA) and have spoken at multiple international conferences on AI integration in healthcare systems, drug misinformation, quality culture, and international regulations. I also love leading communities at RAPS, ISPE, and IEEE along with reviewing and providing feedback on upcoming standards related to AI in healthcare. You can find my blogs and publications here too. 
 
 Publications
 ====
+
+* **Artificial Intelligence in Auditing: Navigating the New Era**    
+ *ASQ Audit Division Newsletter*    
+ ***Attrayee Chakraborty***    
+ [\[website\]](https://www.linkedin.com/posts/audit-division-asq_asqauditdivision-theauditreport-newsletter-activity-7404266626193530881-Ozg6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADctJbwBLfTJekMfAhGX9zKM_4WRQ2ehc7M)
+
+
+* **Why Quality Culture is the Key for Tech Entrants in Healthcare**    
+ *MedTechIntelligence*    
+ ***Attrayee Chakraborty***    
+ [\[website\]](https://medtechintelligence.com/feature_article/why-quality-culture-is-the-key-for-tech-entrants-in-healthcare/)
+
 
 * **Healthcare AI Governance Standard (HAIGS) 2024**    
  *ISBN: 979-8-3507-4360-9*    
@@ -45,6 +57,22 @@ Publications
 
 Invited Talks  
 ====
+
+- **Invited Speaker, External Intelligence Meeting (Pathway for Patient Health)** (Pathway for Patient Health, December 2025)
+**Topic: Translating the AI Regulatory Landscape to QMS: EU MDR, ISO/IEC 42001, and Beyond**[\[link\]](https://www.pathway4ph.org/pathway-forum)  
+
+- **Invited Speaker, Mid West Society for Quality Assurance (MWSQA)** (MWSQA, November 2025)
+**Topic: FDA Artificial Intelligence Guidances: Industry Responses In Depth Review** [\[link\]](https://sqa.org/MWSQA/iCore/Events/Event_display.aspx?EventKey=MW100225) 
+
+- **Invited Speaker, ISPE Boston GAMP Chapter** (ISPE, November 2025)
+**Topic: The Human Element in Pharma Automation: Critical Thinking for Validation & Quality** [\[link\]](https://www.ispeboston.org/events/?eventID=1429) 
+
+- **Invited Speaker, RAPS Convergence** (RAPS Convergence, October 2025)
+**Topic:  Translating the AI Regulatory Landscape to QMS: EU MDR, ISO/IEC 42001, and Beyond** [\[link\]](https://convergence2025.eventscribe.net/fsPopup.asp?efp=WlpMQlZSVUIyMjUzNQ&PresentationID=1602455&rnd=0.7506877&mode=presInfo) 
+
+- **Invited Speaker, AI in Auditing** (ASQ Audit Division Conference, September 2025) [\[link\]](https://www.linkedin.com/posts/attrayeec_asq-asqauditdivision-quality-activity-7372302628816396288-O9S0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADctJbwBLfTJekMfAhGX9zKM_4WRQ2ehc7M)
+
+- **Invited Speaker, Building Practical AI Validation Frameworks in the Absence of Specific Regulations** (Medical Device Software Development Summit, June 2025)
 
 - **Invited Speaker, Building Practical AI Validation Frameworks in the Absence of Specific Regulations** (Medical Device Software Development Summit, June 2025)
 
@@ -159,7 +187,7 @@ Academic and industry review
   - Selected 44 abstracts for presentation and exhibition at Heart Rhythm 2025, the premier meeting for leaders in electrophysiology.  
   - The Heart Rhythm Society (HRS) is an international leader in science, education, and advocacy for cardiac arrhythmia professionals and patients, representing professionals in over 70 countries worldwide.
 
-- **Reviewer, 2025 IEEE International Symposium on Biomedical Imaging (ISBI)** (November 2024)  
+- **Reviewer, 2025 and 2026 IEEE International Symposium on Biomedical Imaging (ISBI)** (November 2024 and 2025)  
   - Academic reviewer of 3 articles submitted for the 22nd IEEE International Symposium on Biomedical Imaging (ISBI 2025).
 
 - **Reviewer, World Conference for Quality & Improvement, American Society for Quality** (October 2024)  
@@ -192,6 +220,14 @@ Academic and industry review
 Features
 ====
 
+- **From Root Cause to Roadmap: Rethinking CAPA with Attrayee Chakraborty** [\[link\]](https://www.ease.io/podcast/root-cause-to-roadmap-rethinking-capa/)
+
+- **AI in MedTech: Navigating FDA Regulations & Innovation** [\[link\]](https://www.linkedin.com/pulse/ai-medtech-navigating-fda-regulations-innovation-orthogonal-8xdfc/?trackingId=eMztU78o9WkGtiVBC1Adjw%3D%3D) 
+
+- **LTR 120: Atty Chakraborty on India's Rising MedTech Sector** [\[link\]](https://naveenagarwalphd.substack.com/p/ltr-120-atty-chakraborty-on-india-rising-medtech-sector)
+
+- **Ready to geek out over QMS strategies? These speakers are.** [\[link\]](https://www.linkedin.com/pulse/ready-geek-out-over-qms-strategies-fbdke/?trackingId=XZ4r12cHQ6SU6epPDwuBxg%3D%3D)
+
 - **Cybersecurity Medical Devices** [\[link\]](https://cybersecurity-medical-devices.com/content-hub/)  
 
 - **Attrayee Chakraborty - Cybersecurity Medical Devices** [\[link\]](https://cybersecurity-medical-devices.com/speaker/attrayee-chakraborty/)  
@@ -217,6 +253,9 @@ Awards
 
 **Quality Rookie of the Year Award, 2025**
 - Industry award by Quality Magazine [\link\](https://www.qualitymag.com/nominate-quality-rookie-of-the-year) to recognize an individual with one to five years of experience in the industry who has contributed to the quality profession.
+
+**RAPS Rising Star of the Year, 2025**
+- Industry award by Regulatory Affairs Professional Society [\link\](https://www.raps.org/news-and-articles/news-articles/2025/7/raps-honors-9-regulatory-professionals-and-one-org) to recognize nine distinguished professionals and one organization with awards for their work to support the regulatory profession and advance public health.
 
 ---
 
